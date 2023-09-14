@@ -49,3 +49,51 @@
     background-color: #EE8C46;
     color: white;
 }
+
+.about-background {
+    background-image: linear-gradient(to bottom, #123d44, #113c43, #113a41, #103940, #10383f, #10373e, #0f353c, #0f343b, #0f333a, #0e3238, #0e3137, #0e3036);
+    font-family: 'Open Sans', sans-serif;
+    color: #113c43;
+}
+
+
+.background {
+    background-color: #FAF8F6;
+
+    border-radius: 15px;
+}
+
+.background p {
+    color: #113c43;
+    font-size: 1.2em;
+}
+
+.line {
+    height: 2px;
+    width: 100px;
+    background-color: #113c43;
+}
+
+.about-background h2 {
+    color: #113c43;
+    font-family: 'Rock Salt', cursive;
+}
+
+.about-card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+
+.card p, .card h5 {
+    color: #113c43;
+}
+
+img.about-img {
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
