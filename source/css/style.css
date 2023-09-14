@@ -1,8 +1,50 @@
-body {
+.index-background {
     background-color: #123D44;
 }
 
-h1 {
+.index-background h1 {
     font-family: 'Rock Salt', cursive;
     color: #E6F4F1;
+}
+
+.main img {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.index-background h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #E6F4F1;
+}
+
+.navbar-nav .nav-link {
+    color: #E6F4F1;
+    font-size: 20px;
+}
+
+.navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
+    color: #7FEAA9;
+}
+
+.fab{
+    color: #E6F4F1;
+}
+
+.fab:hover{
+    color: #7FEAA9;
+}
+
+.resume a {
+    background-color: #D9742C;
+    border: none;
+    color: #E6F4F1;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+
+.resume a:hover {
+    background-color: #EE8C46;
+    color: white;
 }
