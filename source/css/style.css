@@ -1,5 +1,6 @@
 .index-background {
-    background-color: #123D44;
+    background-image: linear-gradient(to bottom, #123d44, #113c43, #113a41, #103940, #10383f, #10373e, #0f353c, #0f343b, #0f333a, #0e3238, #0e3137, #0e3036);
+    font-family: 'Open Sans', sans-serif;
 }
 
 .index-background h1 {
